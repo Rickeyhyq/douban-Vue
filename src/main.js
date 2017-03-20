@@ -6,6 +6,9 @@ import VueRouter from 'vue-router'
 import VueResource from 'vue-resource'
 
 
+// 引入自己的css
+import '../statics/css/base.css'
+
 // 使用vue-resource
 Vue.use(VueResource)
 
